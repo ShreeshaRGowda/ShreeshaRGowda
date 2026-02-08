@@ -1,4 +1,4 @@
-## Hi, I’m Shreesha NR 
+## Hi, I’m Shreesha NR 👋
 
 I am a **Computer Science Engineering student** with strong interests in **Full-Stack Development, Data Analytics, and Applied AI**.  
 I focus on building scalable, practical solutions and transforming ideas into reliable, production-ready applications.
@@ -37,44 +37,26 @@ I have hands-on experience across web development, backend systems, databases, a
 
 ---
 
-### 📌 Selected Projects
-**Printing in the Air: An AI-Powered Gesture Art Tool**   
-Enhanced a gesture recognition system using Python and OpenCV to enable real-time digital art creation through hand tracking, improving user interaction with AI-driven features.
+### 📌 Projects
+- **Printing in the Air** – AI-based hand gesture recognition system for real-time digital art (Python, OpenCV)  
+- **AI Media & Document Redaction Tool** – Automated detection and blurring of sensitive data using YOLO, DeepFace, and OCR  
+- **Personal Expense Tracker** – Full-stack expense tracking web application (React, Flask, MongoDB Atlas)  
+- **Hotel Revenue Analysis** – Interactive Tableau dashboards for revenue and performance analysis  
+- **E-Commerce Mobile Application** – Cross-platform mobile app with backend and database management (Node.js, MongoDB)
+
 ---
 
-**AI-Powered Media and Document Redaction Tool for Personal Information Protection | Group of 4**  
-Developed an AI-based solution using YOLO, DeepFace, and OCR to automatically detect and blur sensitive information in images, videos, and documents, ensuring data privacy and security.
----
+### 🎓 Academic & Research
+- Published research papers in **AI in Agriculture** and **IoT for Connected Vehicles**
+- Experience with data-driven analysis and system design
 
-**Personal Expense Tracker Web App**   
-Built a responsive expense management web application with full CRUD functionality using React and Flask, integrating MongoDB Atlas for efficient and scalable data handling.
----
-
-**Hotel Revenue Analysis Using Tableau**  
-Performed revenue analysis by designing interactive Tableau dashboards to identify trends, performance metrics, and actionable business insights.
 ---
 
 ### 📫 Contact
-- 📧 Email: shreeshagiri04@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/shreesha-n-r- 
-- 🌐 Portfolio: https://shreesha.tech/
+- 📧 Email: *shreeshagiri04@gmail.com*
+- 💼 LinkedIn: *https://www.linkedin.com/in/shreesha-n-r- *
+- 🌐 Portfolio: *https://shreesha.tech/*
 
 ---
 
 ⭐ Feel free to explore my repositories and projects.
-
-
-<!--
-**ShreeshaRGowda/ShreeshaRGowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
