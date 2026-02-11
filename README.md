@@ -1,82 +1,98 @@
-<h1 align="center">Hi 👋, I’m Shreesha NR</h1>
+<h1 align="center">Hi 👋, I'm Shreesha NR</h1>
 <h3 align="center">🚀 Full Stack Developer | 📊 Data Analyst | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=750&height=60&lines=Computer+Science+Engineer;Full-Stack+Application+Developer;Data+Analytics+Enthusiast;AI+Project+Builder;Transforming+Ideas+into+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Full+Stack+Developer;Data+Analytics+Enthusiast;AI+Project+Builder;Always+Learning+New+Tech!" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I am a **Computer Science Engineering student** passionate about building **scalable, real-world solutions** using modern technologies.
-
-I focus on transforming ideas into **production-ready applications** with strong backend systems, clean UI, and data-driven insights.
-
----
-
-## 🔭 Current Focus
-
-- 🚀 Developing full-stack applications using **React, Flask & MongoDB**
-- 📊 Strengthening expertise in **Data Analytics & SQL**
-- 🤖 Building AI-assisted tools for practical problem-solving
-- 🎯 Preparing for Software Engineering & Data Analyst roles
+- 🎓 Computer Science Engineering Student at **MITE**
+- 💻 Passionate about **Full Stack Development & AI**
+- 📊 Love working with **Python, Data & Visualization**
+- 🚀 Building real-world projects for strong fundamentals
+- 📄 Published Research Papers in AI & IoT
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Frontend
+### 👨‍💻 Programming
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-### ⚙ Backend & Databases
+### ⚙️ Frameworks & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql" />
 </p>
 
-### 📊 Data & Visualization
+### 📊 Data & Analytics
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=pandas" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-✨ **Printing in the Air**  
-AI-based hand gesture recognition using OpenCV  
+✨ **AI-Powered Media & Document Redaction Tool**  
+- MTCNN Face Detection  
+- Tesseract OCR  
+- Regex Sensitive Data Removal  
 
-✨ **AI Media & Document Redaction Tool**  
-Automated detection & masking of sensitive data  
+📊 **Hotel Revenue Data Analysis (Tableau Project)**  
+- Dashboard Creation  
+- KPI Analysis  
+- Business Insights  
 
-✨ **Personal Expense Tracker**  
-Full-stack app using React, Flask & MongoDB Atlas  
-
-✨ **Hotel Revenue Analysis Dashboard**  
-Interactive business intelligence using Tableau  
-
-✨ **E-Commerce Mobile Application**  
-Node.js & MongoDB backend system  
+💰 **Full Stack Expense Tracker**  
+- React Frontend  
+- Flask Backend  
+- MongoDB Atlas  
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Stats
 
 <p align="center">
-<a href="mailto:shreeshagiri04@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shreesha-n-r-" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="mailto:YOUR_EMAIL">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
 
 ---
 
-<h3 align="center">⭐ Code. Build. Scale. Repeat. ⭐</h3>
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">⭐ "Code. Build. Improve. Repeat." ⭐</h3>
