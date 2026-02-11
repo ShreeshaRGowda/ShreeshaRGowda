@@ -1,98 +1,111 @@
-<h1 align="center">Hi 👋, I'm Shreesha NR</h1>
-<h3 align="center">🚀 Full Stack Developer | 📊 Data Analyst | 🤖 AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I’m Shreesha NR</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Full+Stack+Developer;Data+Analytics+Enthusiast;AI+Project+Builder;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Full-Stack+Developer;Data+Analytics+Enthusiast;Applied+AI+Builder;Turning+Ideas+into+Production-Ready+Solutions" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student at **MITE**
-- 💻 Passionate about **Full Stack Development & AI**
-- 📊 Love working with **Python, Data & Visualization**
-- 🚀 Building real-world projects for strong fundamentals
-- 📄 Published Research Papers in AI & IoT
+I am a **Computer Science Engineering student** with strong interests in **Full-Stack Development, Data Analytics, and Applied AI**.  
+
+I focus on building **scalable, practical solutions** and transforming ideas into reliable, production-ready applications.
+
+I have hands-on experience across web development, backend systems, databases, and data visualization — supported by academic research and real-world project work.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔭 Current Focus
 
-### 👨‍💻 Programming
+- 🚀 Developing full-stack applications using **React, Flask, and MongoDB**
+- 📊 Enhancing skills in **Data Analysis, Visualization, and SQL**
+- 🤖 Working on AI-assisted tools for real-world problem solving
+- 🎯 Preparing for **Software Engineering & Data Analyst roles**
+
+---
+
+## 🛠 Technical Skills
+
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### ⚙ Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,mongodb,mysql,flask" />
 </p>
 
 ### 📊 Data & Analytics
 <p>
-<img src="https://skillicons.dev/icons?i=pandas" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-✨ **AI-Powered Media & Document Redaction Tool**  
-- MTCNN Face Detection  
-- Tesseract OCR  
-- Regex Sensitive Data Removal  
-
-📊 **Hotel Revenue Data Analysis (Tableau Project)**  
-- Dashboard Creation  
-- KPI Analysis  
-- Business Insights  
-
-💰 **Full Stack Expense Tracker**  
-- React Frontend  
-- Flask Backend  
-- MongoDB Atlas  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📌 Projects
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+### ✨ Printing in the Air  
+AI-based hand gesture recognition system for real-time digital art  
+`Python | OpenCV`
 
 ---
 
-## 🌐 Connect With Me
+### 🤖 AI Media & Document Redaction Tool  
+Automated detection and blurring of sensitive data  
+`YOLO | DeepFace | OCR`
+
+---
+
+### 💰 Personal Expense Tracker  
+Full-stack expense tracking web application  
+`React | Flask | MongoDB Atlas`
+
+---
+
+### 📊 Hotel Revenue Analysis  
+Interactive Tableau dashboards for business performance insights  
+
+---
+
+### 🛒 E-Commerce Mobile Application  
+Cross-platform mobile application with backend & database management  
+`Node.js | MongoDB`
+
+---
+
+## 🎓 Academic & Research
+
+- 📄 Published research papers in **AI in Agriculture**
+- 🚗 Research on **IoT for Connected Vehicles**
+- 📊 Experience in data-driven analysis and system design
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="mailto:shreeshagiri04@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+
+<a href="https://www.linkedin.com/in/shreesha-n-r-" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
 
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+🌐 Portfolio: https://shreesha.tech/
 
 ---
 
-<h3 align="center">⭐ "Code. Build. Improve. Repeat." ⭐</h3>
+<h3 align="center">⭐ Code. Build. Improve. Repeat. ⭐</h3>
