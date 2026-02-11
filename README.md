@@ -40,20 +40,57 @@
 
 ## 🚀 Featured Projects
 
-✨ **AI-Powered Media & Document Redaction Tool**  
-- MTCNN Face Detection  
-- Tesseract OCR  
-- Regex Sensitive Data Removal  
+## 🚀 Featured Projects
 
-📊 **Hotel Revenue Data Analysis (Tableau Project)**  
-- Dashboard Creation  
-- KPI Analysis  
-- Business Insights  
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="left">Stack</th>
+</tr>
 
-💰 **Full Stack Expense Tracker**  
-- React Frontend  
-- Flask Backend  
-- MongoDB Atlas  
+<tr>
+<td><a href="https://github.com/ShreeshaRGowda">AI Media & Document Redaction Tool</a></td>
+<td>AI-based system for detecting and blurring sensitive information in images, videos and documents using computer vision and deep learning.</td>
+<td>
+YOLOv5, YOLOv8, DeepFace, OCR, OpenCV, Python
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/ShreeshaRGowda">Printing in the Air</a></td>
+<td>Real-time AI gesture recognition system for digital drawing using hand tracking and computer vision.</td>
+<td>
+Python, OpenCV, Machine Learning
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/ShreeshaRGowda">Personal Expense Tracker</a></td>
+<td>Full-stack web application for managing personal expenses with CRUD functionality and database integration.</td>
+<td>
+React, Flask, MongoDB Atlas
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/ShreeshaRGowda">Hotel Revenue Analysis</a></td>
+<td>Interactive Tableau dashboard for revenue performance analysis and KPI visualization.</td>
+<td>
+Tableau, Excel
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/ShreeshaRGowda">E-Commerce Mobile Application</a></td>
+<td>Cross-platform mobile application with backend API and database management system.</td>
+<td>
+Node.js, MongoDB, Express
+</td>
+</tr>
+
+</table>
+
 
 ---
 
