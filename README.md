@@ -1,98 +1,148 @@
-<h1 align="center">Hi 👋, I'm Shreesha NR</h1>
+<h1 align="center">Hi 👋, I'm Shreesha N R</h1>
+
 <h3 align="center">🚀 Full Stack Developer | 📊 Data Analyst | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Full+Stack+Developer;Data+Analytics+Enthusiast;AI+Project+Builder;Always+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&height=60&lines=Computer+Science+Engineer;Full-Stack+Application+Developer;Data-Driven+Problem+Solver;AI+%26+LLM+Enthusiast;Building+Scalable+Production+Systems" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 Professional Summary
 
-- 🎓 Computer Science Engineering Student at **MITE**
-- 💻 Passionate about **Full Stack Development & AI**
-- 📊 Love working with **Python, Data & Visualization**
-- 🚀 Building real-world projects for strong fundamentals
-- 📄 Published Research Papers in AI & IoT
+🎓 Computer Science Engineering student with strong **problem-solving and analytical skills**.  
+
+💻 Proficient in **Full-Stack Development (HTML, CSS, React.js, SQL, MongoDB)** and  
+📊 Skilled in **Data Analysis (Python, Pandas, Excel, Tableau, Power BI)**.
+
+🚀 Adaptable, quick learner, and passionate about building scalable software and data-driven systems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-### 👨‍💻 Programming
+🎓 **B.E. in Computer Science & Engineering**  
+Mangalore Institute of Engineering & Technology (2022–Present)  
+CGPA: 7.86  
+
+🏫 Senior Secondary – BGS College, Sringeri (70.4%)  
+🏫 SSLC – Jaycees School, Sringeri (80.5%)
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=c,python,java,react" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 📊 Data & Analytics
+### 🗄 Databases
 <p>
-<img src="https://skillicons.dev/icons?i=pandas" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 📊 Data & BI
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### ⚙ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Internships
 
-✨ **AI-Powered Media & Document Redaction Tool**  
-- MTCNN Face Detection  
-- Tesseract OCR  
-- Regex Sensitive Data Removal  
+### 🐍 Python Programming Intern – InternPe (Nov 2024 – Dec 2024)
+- Built logic-based applications using Python
+- Hands-on coding, debugging & real-world projects
 
-📊 **Hotel Revenue Data Analysis (Tableau Project)**  
-- Dashboard Creation  
-- KPI Analysis  
-- Business Insights  
-
-💰 **Full Stack Expense Tracker**  
-- React Frontend  
-- Flask Backend  
-- MongoDB Atlas  
+### 🤖 Conversational Data Analysis with LLMs – VOIS & Vodafone Idea Foundation (Sept 2025 – Oct 2025)
+- Worked on AI-driven conversational systems
+- Applied Large Language Models in data analysis
+- Strengthened practical knowledge in real-world LLM applications
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Projects
+
+### ✨ Printing in the Air – AI Gesture Art Tool
+`Python | OpenCV | Machine Learning`
+- Real-time hand tracking
+- AI-enhanced digital drawing system
+
+---
+
+### 🔐 AI-Powered Media & Document Redaction Tool
+`YOLOv5 | YOLOv8 | DeepFace | OCR | OpenCV`
+- Automatic detection & blurring of sensitive data
+- Built for privacy & security protection
+- Role: Developer & Research Coordinator
+
+---
+
+### 💰 Personal Expense Tracker (Full-Stack)
+`React | Flask | MongoDB Atlas`
+- CRUD-based expense management system
+- Backend API integration
+- Responsive UI
+
+---
+
+### 📊 Hotel Revenue Analysis (Tableau)
+- Business KPI dashboard
+- Data-driven performance insights
+
+---
+
+## 📚 Certifications & Courses
+
+- Mastering Tableau 2025 – Udemy
+- Google UX Design – Coursera
+- Power BI – Microsoft
+- Oracle Cloud Infrastructure Data Science Professional
+- Salesforce AI Agentforce Foundations
+- Cisco IoT
+- UiPath RPA Developer Foundation
+
+---
+
+## 🏆 Achievements
+
+- 🧠 CODE CREST 2025 – MITE
+- 📄 Research Paper: **AI in Agriculture (2023)**
+- 🚀 SAP Hackfest 2025
+- 🌐 Web Dash 2.0
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="mailto:shreeshagiri04@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shreesha-n-r-" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ShreeshaRGowda" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<h3 align="center">⭐ "Code. Build. Improve. Repeat." ⭐</h3>
+<h3 align="center">⭐ Building Intelligent Systems. Solving Real Problems. ⭐</h3>
