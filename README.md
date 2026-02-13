@@ -50,7 +50,7 @@
 </tr>
 
 <tr>
-<td><a href="https://github.com/ShreeshaRGowda](https://github.com/ShreeshaRGowda/AN-AI-POWERED-MEDIA-AND-DOCUMENT-REDACTION-TOOL-FOR-PERSONAL-INFORMATION-PROTECTION)">AI Media & Document Redaction Tool</a></td>
+<td><a href="(https://github.com/ShreeshaRGowda/AN-AI-POWERED-MEDIA-AND-DOCUMENT-REDACTION-TOOL-FOR-PERSONAL-INFORMATION-PROTECTION)">AI Media & Document Redaction Tool</a></td>
 <td>AI-based system for detecting and blurring sensitive information in images, videos and documents using computer vision and deep learning.</td>
 <td>
 YOLOv5, YOLOv8, DeepFace, OCR, OpenCV, Python
