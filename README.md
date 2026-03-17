@@ -82,8 +82,8 @@ Tableau, Excel
 </tr>
 
 <tr>
-<td><a href="https://github.com/ShreeshaRGowda">E-Commerce Mobile Application</a></td>
-<td>Cross-platform mobile application with backend API and database management system.</td>
+<td><a href="https://github.com/ShreeshaRGowda/saasflow_workspace">saasflow_workspace</a></td>
+<td>Multi-tenant workspace model for organization-centric collaboration</td>
 <td>
 Node.js, MongoDB, Express
 </td>
